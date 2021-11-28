@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Controllers\\V1",
+    "\\InputModel",
+    "\\Services",
+    "\\ViewModel"
+  ],
+  "SelectedNode": "\\Services\\IEstrelaService.cs",
+  "PreviewInSolutionExplorer": false
+}
